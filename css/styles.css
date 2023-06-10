@@ -1,0 +1,211 @@
+body{
+    background-color: hsl(0, 0%, 98%);
+}
+
+.container-main{
+    height: 922px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.subcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1110px;
+    height: 760px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 25px;
+}
+
+.text-ct{
+    width: 503px;
+    height: 170px;
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+}
+.text-ct #h1 {
+    font-size: 37.8px;
+    margin-bottom: 24px;
+    font-weight: normal;
+    color: hsl(234, 12%, 34%);
+    
+}
+
+.text-ct #h1bold {
+    font-size: 38px;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+
+.text-ct p{
+    margin-top: 36px;
+    font-size: 16.999999px;
+    color: hsl(229, 6%, 66%);
+}
+
+.cards-ct{
+    width: 1110px;
+    height: 530px;
+    display: flex;
+    align-items: center;
+    margin-top: 48px;
+}
+
+.leftside{
+    width: 350px;
+    height: 530px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+.supervisor{
+    width: 284px;
+    height: 184px;
+    padding: 33px;
+    background-color: white;
+    border-radius: 7px;
+    border-top: 4px solid hsl(180, 62%, 55%);
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+    box-shadow: 0 15px 20px #d8e1ed;
+}
+
+.supervisor h2{
+    font-size: 1.32rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+.supervisor p{
+    color: hsl(229, 6%, 66%);
+    font-size: 0.9rem;
+}
+
+
+.ic-supervisor{
+    width: 284px;
+    height: 92px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.midside{
+    width: 350px;
+    height: 530px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+.teambuilder{
+    width: 284px;
+    height: 184px;
+    padding: 33px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 7px;
+    border-top: 4px solid hsl(0, 78%, 62%);
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+    box-shadow: 0 15px 20px #d8e1ed;
+}
+.ic-teambuilder{
+    width: 284px;
+    height: 92px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.teambuilder h2{
+    font-size: 1.32rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+.teambuilder p{
+    color: hsl(229, 6%, 66%);
+    font-size: 0.9rem;
+}
+
+.karma{
+    width: 284px;
+    height: 184px;
+    padding: 33px;
+    background-color: white;
+    border-radius: 7px;
+    border-top: 4px solid hsl(34, 97%, 64%);
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+    box-shadow: 0 15px 20px #d8e1ed;
+}
+.ic-karma{
+    width: 284px;
+    height: 92px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.karma h2{
+    font-size: 1.32rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+.karma p{
+    color: hsl(229, 6%, 66%);
+    font-size: 0.9rem;
+}
+
+.rightside{
+    width: 350px;
+    height: 530px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.calculator{
+    width: 284px;
+    height: 184px;
+    padding: 33px;
+    background-color: white;
+    border-radius: 7px;
+    border-top: 4px solid hsl(212, 86%, 64%);
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+    box-shadow: 0 15px 20px #d8e1ed;
+}
+.ic-calculator{
+    width: 284px;
+    height: 92px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.calculator h2{
+    font-size: 1.32rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+.calculator p{
+    color: hsl(229, 6%, 66%);
+    font-size: 0.9rem;
+}
+
+.attribution { font-size: 11px; text-align: center; 
+margin-top: -12px; color:hsl(234, 12%, 34%);
+}
+.attribution a { color: hsl(228, 45%, 44%); }
