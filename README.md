@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔗 Links
 
-- Live Site URL: [CLICKHERE!]-
+- Live Site URL: [CLICKHERE!](https://kevengoncabral.github.io/Four-card-feature-section-html/)
 
 
 
